@@ -6,5 +6,8 @@
     <groupId>com.example</groupId>
     <artifactId>sample-devops-project</artifactId>
     <version>1.0-SNAPSHOT</version>
+         <properties>
+    <sonar.login>${squ_27e22e4a948687e32ea255c369648ad4a5be7662}</sonar.login>
+</properties>
 </project>
 
